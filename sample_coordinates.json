@@ -1,0 +1,16 @@
+{
+    "tile_0_0": {
+        "left": 50,
+        "top": 100,
+        "width": 115,
+        "height": 208,
+        "note": "Double blank - usually top-left area"
+    },
+    "tile_6_6": {
+        "left": 200,
+        "top": 300,
+        "width": 115,
+        "height": 208,
+        "note": "Double six - usually bottom-right area"
+    }
+}
